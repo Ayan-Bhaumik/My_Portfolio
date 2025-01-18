@@ -47,7 +47,7 @@ mindmap
 
 ## 🚀 Demo
 
-Experience the live portfolio at [https://portfolio-lohit.vercel.app](https://portfolio-lohit.vercel.app)
+Experience the live portfolio at [https://](https://)
 
 ## 🛠️ Installation
 
@@ -125,5 +125,3 @@ npm run dev
 
 - ✉️ Email Integration
   - Contact form using EmailJS
-
-
