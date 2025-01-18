@@ -38,7 +38,7 @@ Experience the live portfolio at [https://](https://)
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/lohitkolluri/Portfolio-Website
+git clone https://ayan-bhaumik.github.io/Ayans_Portfolio/
 ```
 
 2️⃣ Navigate to project directory:
