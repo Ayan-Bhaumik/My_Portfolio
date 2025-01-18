@@ -126,12 +126,4 @@ npm run dev
 - ✉️ Email Integration
   - Contact form using EmailJS
 
-## 📄 License
 
-<div align="center">
-
-MIT License © [Lohit Kolluri](LICENSE)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
