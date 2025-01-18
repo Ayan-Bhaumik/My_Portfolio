@@ -1,5 +1,6 @@
 {
   "name": "Ayan's_Portfolio",
+  "homepage": "https://github.com/Ayan-Bhaumik/Ayans_Portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,13 +8,16 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@react-three/drei": "^9.88.2",
     "@react-three/fiber": "^8.14.5",
     "framer-motion": "^10.12.16",
+    "gh-pages": "^6.3.0",
     "maath": "^0.10.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
