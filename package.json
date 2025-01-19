@@ -1,6 +1,6 @@
 {
-  "name": "Ayans_Portfolio",
-  "homepage": "https://github.com/Ayan-Bhaumik/Ayans_Portfolio/",
+  "name": "my-portfolio",
+  "homepage": "https://github.com/Ayan-Bhaumik/My_Portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "main -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
