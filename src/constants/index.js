@@ -97,6 +97,14 @@ export const experiences = [
  
 ];
 
+export const socialLinks = [
+  {
+    name: "LinkedIn",
+    iconUrl: "https://www.linkedin.com/in/ayan-bhaumik/",
+    link: "https://www.linkedin.com/in/ayan-bhaumik/",
+  }
+];
+
 export const projects = [
   {
     name: "Dollar Sense",
